@@ -1,0 +1,50 @@
+/* Formulir.css */
+
+.custom-form {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .custom-form .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .custom-form label {
+    font-weight: bold;
+  }
+  
+  .custom-form input[type="text"],
+  .custom-form input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .custom-form input[type="text"]:focus,
+  .custom-form input[type="number"]:focus {
+    border-color: #007bff;
+    outline: none;
+  }
+  
+  .custom-form button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .custom-form button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+.tambah-pesanan {
+    color: white;
+  }
+  

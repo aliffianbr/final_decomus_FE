@@ -1,0 +1,16 @@
+.custom-navbar {
+    outline: 2px solid black; 
+  }
+  
+  .custom-brand {
+    font-weight: bold; 
+    color: white !important; 
+    justify-content: center;
+    display: flex;
+  }
+  
+  .custom-link {
+    font-weight: bold; 
+    color: white !important; 
+  }
+  
